@@ -10,7 +10,7 @@ SLS: Number of Short Life Span per 1000 population
 Alcohol: Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)
 PercentageExpenditure: Expenditure on health as a percentage of Gross Domestic Product per capita(%)
 Measles: Measles - number of reported cases per 1000 population
-BMI: Average: Body Mass Index of entire population
+BMI: Average Body Mass Index of entire population
 Under5LS: Number of under-five Life Span per 1000 population
 Polio: Polio (Pol3) immunization coverage among 1-year-olds (%)
 TotalExpenditure: General government expenditure on health as a percentage of total government expenditure (%)
