@@ -2,7 +2,7 @@ ID: row index (not an attribute)
 TARGET-LifeExpectancy: Life Expectancy in age (years)
 Country: index of Country
 Year: Year
-Status: Developed or Developing status (0, 1)
+Status: Developed or Developing status (1, 0)
 AdultMortality: Adult Mortality Rates of both sexes (probability of dying between 15 and 60 years per 1000 population)
 AdultMortality-Female: Adult Mortality Rates of Female (probability of dying between 15 and 60 years per 1000 population)
 AdultMortality-Male: Adult Mortality Rates of Male (probability of dying between 15 and 60 years per 1000 population)
@@ -10,7 +10,7 @@ SLS: Number of Short Life Span per 1000 population
 Alcohol: Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)
 PercentageExpenditure: Expenditure on health as a percentage of Gross Domestic Product per capita(%)
 Measles: Measles - number of reported cases per 1000 population
-BMI: Average Body Mass Index of entire population
+BMI: Average: Body Mass Index of entire population
 Under5LS: Number of under-five Life Span per 1000 population
 Polio: Polio (Pol3) immunization coverage among 1-year-olds (%)
 TotalExpenditure: General government expenditure on health as a percentage of total government expenditure (%)
